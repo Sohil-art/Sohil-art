@@ -24,19 +24,3 @@
 3-To supplement my learning, I am currently engrossed in reading the book "Grokking Algorithms," which provides a comprehensive and practical guide to understanding fundamental algorithms and their applications through clear explanations and illustrative examples.
 
 
-<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
-
-
-
- <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
-
-<!-- ### Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrSayed74&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-<br/>
--->
-
-
